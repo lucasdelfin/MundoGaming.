@@ -1,0 +1,774 @@
+02:25:14	Ricardo Cordo:	yyes
+02:25:14	[Tutor] Darío Rojas:	si
+02:25:14	Mariana Szabo:	sip
+02:25:14	Constanza López Curtio:	si
+02:25:15	Carlos Santiago Lavia:	Siii
+02:25:15	Juliana Carvalho:	si, gracias
+02:25:16	Lucia Piscitelli:	I
+02:25:30	Santi Vidal:	Bueeenass buenass
+02:25:42	Jorge Beliera:	ah bien
+02:25:47	Jorge Beliera:	pense que era mas dificl
+02:25:48	[TUTOR] Tomas Babikian:	Ahhh pero en SASS prepárense!!
+02:25:48	Emiliano Alonso:	ver para creer
+02:25:48	Manuela Díaz Hidalgo:	Jajajaja
+02:25:49	Emiliano Alonso:	jaja
+02:25:54	[TUTOR] Tomas Babikian:	ajajaja
+02:26:06	[TUTOR] Gabriel Alejandro López Trujillo:	Exacto! Vayan aprovechando tooooodos esos días y esos desafíos para meterle amor a su proyecto
+02:26:08	Malena Kiryluk:	mmmmm
+02:26:28	Jhojan Chala:	holaa que pena la tardanza
+02:26:34	FranciscoNuñez:	buenas novhes
+02:26:37	[TUTOR] Gabriel Alejandro López Trujillo:	SASS I es lindo... AHHHH! pero SASS II 😈
+02:26:43	Jorge Beliera:	jajajja
+02:27:01	Norberto Sigel:	tranquilas!
+02:27:14	Santi Vidal:	Bieen
+02:27:27	Santi Vidal:	Chicos a los  que andan  medio complicados
+02:27:36	Santi Vidal:	Ya  se acaba  eel codigo
+02:27:46	Malena Kiryluk:	voy aver las clases de grids por 4ta vez :)
+02:28:02	[TUTOR] Gabriel Alejandro López Trujillo:	Male! No dejes de ver el after de Dario
+02:28:04	[TUTOR] Ignacio Curto:	Ahora llega el momento de avanzar con el proyecto jeje
+02:28:06	Santi Vidal:	y se viene todo mas tranqui  y  tienen  tiempo para los desafios
+02:28:08	[TUTOR] Gabriel Alejandro López Trujillo:	Que estuvo INCREIIIIBLEEEE!
+02:28:15	Francisco Müller:	Grids me tiene de hijo
+02:28:16	[TUTOR] Tomas Babikian:	Bien Male! Hay que seguir practicando!
+02:28:20	Malena Kiryluk:	sisi tambien el after!!!
+02:28:21	Federico Maeda:	Justo estoy muy complicado con las medias...
+02:28:37	[TUTOR] Gabriel Alejandro López Trujillo:	Sobre todo para el frio (?
+02:28:38	[TUTOR] Gabriel Alejandro López Trujillo:	Jaja
+02:28:43	Jorge Beliera:	exactamente
+02:29:09	Carlos Santiago Lavia:	sisi
+02:29:11	Esteban Bogoya:	sip
+02:29:11	Mauricio Zapiola:	si
+02:29:12	Mariana Szabo:	sisi
+02:29:13	Norberto Sigel:	si si
+02:29:13	Alejo Tayar:	sisi
+02:29:14	Lucas Delfino:	sisi
+02:29:14	Malena Kiryluk:	ah sisi
+02:29:16	Miguel Andres Muñoz:	si
+02:29:17	FranciscoNuñez:	sisis
+02:29:20	Roberto Rossa:	Si el repo
+02:29:28	Roberto Rossa:	si
+02:29:30	Jorge Beliera:	hackeando
+02:29:31	Norberto Sigel:	si
+02:29:33	Nicolas Nacfur:	si
+02:29:34	Roberto Rossa:	jajaj
+02:29:34	Carolina Mateovich:	no
+02:29:35	leonel ledesma:	no
+02:29:35	Esteban Bogoya:	nel
+02:29:38	Ariel Gomez:	si
+02:29:38	nadia peralta:	no
+02:29:40	FranciscoNuñez:	ni
+02:29:42	Santi Vidal:	crear una  cuenta en git?
+02:30:10	Miguel Andres Muñoz:	que es GNU
+02:30:17	Miguel Andres Muñoz:	Codigo abierto
+02:30:19	[TUTOR] Gabriel Alejandro López Trujillo:	GitHub es el repositorio donde la profe les sube los codigo
+02:30:45	Norberto Sigel:	si
+02:30:45	Sergio Bragunde:	si
+02:30:49	nadia peralta:	si
+02:30:54	Alan Congregado:	Si
+02:30:55	Santi Vidal:	me dormi jajaj
+02:31:05	Jorge Beliera:	x2
+02:31:08	Santi Vidal:	literal
+02:31:09	Luciana Garro:	https://git-scm.com/
+02:31:14	leonel ledesma:	yo con la compu, murió jajaa
+02:31:23	[TUTOR]Victor Hernandez:	Presten atención a la clase!
+02:31:24	Carlos Santiago Lavia:	sii
+02:31:27	Carlos Santiago Lavia:	muchos next
+02:31:29	Santiago Massei:	era igual de fácil que vsc
+02:31:30	[TUTOR]Victor Hernandez:	anoten los comandos que iremos mostrando
+02:31:37	[TUTOR]Victor Hernandez:	es super sencillo es un paso a paso
+02:31:45	[TUTOR]Victor Hernandez:	siempre y cuando lo hagan tal cual no habrá problemas
+02:32:07	Santi Vidal:	olvidatte que no me  funciona la lapicera
+02:32:14	[TUTOR]Victor Hernandez:	y si tienen algún error escriban al privado a su tutor
+02:32:15	[TUTOR] Gabriel Alejandro López Trujillo:	☝️eso que dice Vic
+02:32:27	Sergio Bragunde:	yo te presto santi
+02:32:29	Sergio Bragunde:	toma
+02:32:32	Santi Vidal:	gracias
+02:32:33	Santi Vidal:	jajajs
+02:32:36	[TUTOR] Gabriel Alejandro López Trujillo:	Peeeero es super importante que tengan mucho cuidado con el tipeo
+02:32:39	Sergio Bragunde:	de nada bro
+02:32:47	[TUTOR] Gabriel Alejandro López Trujillo:	jaja
+02:34:45	Daniel Alejandro Lues:	como google drive
+02:34:48	Daniel Alejandro Lues:	que maneja versiones
+02:34:56	[ Tutor ] Brayann Farfan:	claro Dani algo parecido 
+02:34:58	[TUTOR] Tomas Babikian:	Algo así Dani!
+02:44:29	Manuela Díaz Hidalgo:	si
+02:44:32	Dalma Belizán:	sip
+02:44:34	Emiliano Alonso:	si
+02:44:34	Daniel Alejandro Lues:	si
+02:44:34	Carlos Santiago Lavia:	sisi
+02:44:34	Santi Vidal:	era ponneer todo nexxt?
+02:44:35	Emiliano Alonso:	una sola
+02:44:38	FranciscoNuñez:	si
+02:44:38	Norberto Sigel:	si
+02:45:13	Santi Vidal:	Tutores era todo next? para la  instalación?
+02:45:18	[TUTOR]Victor Hernandez:	si santi
+02:45:19	[Tutora] Katherine Ruiz Ojeda:	Si santi
+02:45:20	[TUTOR] Ignacio Curto:	Sipp
+02:45:24	[TUTOR] Gabriel Alejandro López Trujillo:	Si Santi
+02:45:32	Carlos Santiago Lavia:	sii
+02:45:32	Juan Pablo Sinkachkuk:	Sisi
+02:45:32	Lucas Delfino:	si
+02:45:32	Juliana Carvalho:	si
+02:45:34	Sofia Caso:	si
+02:45:34	Rocio Badino:	si
+02:45:35	Miguel Andres Muñoz:	si
+02:45:36	Norberto Sigel:	si
+02:45:38	Gisela Lanzillotta:	Sii
+02:45:57	[TUTOR] Gabriel Alejandro López Trujillo:	Recueeeerden que previamente deben de tener instalado https://git-scm.com/
+02:46:27	Sebastián Romero:	Git CMD?
+02:46:30	Jorge Beliera:	2.36.0
+02:46:42	Eliana Diaz:	2.36.0
+02:46:43	Lucas Delfino:	la misma
+02:46:43	Valentino Paterno:	"git" no se reconoce como un comando interno o externo,programa o archivo por lotes ejecutable.
+02:46:44	Juan Pablo Sinkachkuk:	2.36.0
+02:46:45	Emiliano Alonso:	2.36.0.windows.1
+02:46:46	Daniel Alejandro Lues:	2.36.0
+02:46:46	Lucas Delfino:	2.36.0
+02:46:48	Mitchell Davila:	2.36
+02:46:50	FranciscoNuñez:	no me salio nada
+02:46:54	Simón Saiz Mansilla:	2.36.0
+02:46:55	Esteban Bogoya:	"git" no se reconoce como un comando interno o externo,programa o archivo por lotes ejecutable.
+02:46:57	[ Tutor ] Brayann Farfan:	valentino, lo tenes instalado?? 
+02:47:04	Sebastián Romero:	2.35.1
+02:47:15	FranciscoNuñez:	no
+02:47:16	[TUTOR] Gabriel Alejandro López Trujillo:	Valen, Esteba! Descargaron git?
+02:47:22	Tomas Sosa Garcia:	'git' is not recognized as an internal or external command,operable program or batch file.
+02:47:23	Tomas Sosa Garcia:	eso me sale
+02:47:25	Miguel Andres Muñoz:	git version 2.36.0.windows.1
+02:47:27	Roberto Rossa:	Puede ser que le falte la variable de entorno
+02:47:28	FranciscoNuñez:	eso me salio
+02:47:28	Santi Vidal:	git versión y me funciiono
+02:47:44	Franco Panicce:	directamente es git version
+02:47:47	Jorge Beliera:	si no les reconoce git es que no lo tienen instalado (?
+02:47:51	FranciscoNuñez:	ahita
+02:47:53	FranciscoNuñez:	listo
+02:47:54	[TUTOR] Gabriel Alejandro López Trujillo:	Puede ser
+02:48:02	[Tutor] Darío Rojas:	pudiste Esteban?
+02:48:11	Mariana Szabo:	me salio con git -espacio-espacio-version
+02:48:14	Mariana Szabo:	2.36
+02:48:16	Esteban Bogoya:	Estoy en eso
+02:48:18	Lautaro Losio:	Tienen que fijarse bien que lo instalen el el PATH
+02:48:25	Esteban Bogoya:	no habia terminado de instalar
+02:48:26	Esteban Bogoya:	je
+02:48:41	Robinson Betancur Marin:	2.33.0
+02:48:45	[TUTOR] Gabriel Alejandro López Trujillo:	git --version
+02:48:52	Jorge Beliera:	anotado en la mente
+02:49:04	Jorge Beliera:	bueno
+02:49:14	Valentino Paterno:	ponemos a cmd como la terminal principal de git?
+02:49:17	[Tutor] Darío Rojas:	no lo escriban en su maquina de escribir invisible. Gracias
+02:49:26	[Tutora] Katherine Ruiz Ojeda:	ajajaj
+02:49:38	Sergio Bragunde:	jajajaj
+02:49:38	Esteban Bogoya:	Sigue saliendo lo mismo :(
+02:49:49	Tomas Sosa Garcia:	como lo instalo de nuevo
+02:49:56	[TUTOR] Gabriel Alejandro López Trujillo:	Esteban, prueba abriendo la consola como administrador
+02:49:59	Santi Vidal:	pone git versión nomas
+02:50:08	[Tutora] Katherine Ruiz Ojeda:	Escriban al chat de la plataforma
+02:50:24	[Tutora] Katherine Ruiz Ojeda:	Asi no se pierde por acá la consulta
+02:50:25	[Tutor] Darío Rojas:	sip
+02:50:28	Santiago Lombardi:	en editor de git hay que dejarlo en vim o podemos elegir vs code?
+02:50:31	Santi Vidal:	o instalaste  de 32bits en 64bits
+02:50:37	Manuela Díaz Hidalgo:	Me abre una pag cuando le di finish
+02:50:41	[TUTOR] Tomas Babikian:	Coincido en las consultas puntuales por Chat de la plataforma para que no se pierda
+02:50:42	Manuela Díaz Hidalgo:	no me reconoce la version
+02:51:27	[TUTOR] Gabriel Alejandro López Trujillo:	git config --global user.email “juanperez@gmail.com”
+02:51:39	Benjamin Zarate:	genio Gabi
+02:51:44	[TUTOR]Victor Hernandez:	Traten de tener un mail profesional
+02:51:49	[TUTOR] Gabriel Alejandro López Trujillo:	☝️
+02:52:00	Sebastián Romero:	error: could not lock config file C:/Users/Casa/.gitconfig: Permission denied
+02:52:05	Jorge Beliera:	papishulo69@gmail.com
+02:52:07	[TUTOR] Gabriel Alejandro López Trujillo:	Intenten tener acceso a ese mail y que sea profesional en lo posible
+02:52:08	Valentino Paterno:	si me equivoque de email y le di enter puedo poner devuelta el comando y me sustituye?
+02:52:19	FranciscoNuñez:	no hizo nada
+02:52:31	[TUTOR] Gabriel Alejandro López Trujillo:	Perfecto Fran!
+02:52:33	Mitchell Davila:	lo hice pero no me dijo nada
+02:52:36	[Tutora] Katherine Ruiz Ojeda:	No tiene quehacer nada Fran!
+02:52:39	[TUTOR] Gabriel Alejandro López Trujillo:	No tiene que decir nada
+02:52:41	Mitchell Davila:	ahh
+02:52:43	Lucas Delfino:	me salto y abajo me puso c:/users/lucas>
+02:52:43	Mitchell Davila:	sii
+02:52:45	FranciscoNuñez:	okss
+02:52:49	Lucas Delfino:	joya
+02:52:55	[TUTOR] Gabriel Alejandro López Trujillo:	Ateeeentos siempre con lo que tipean jaja
+02:52:58	Santi Vidal:	di enter y no me apareció  nad
+02:53:07	[TUTOR] Ignacio Curto:	Esta bien Santi
+02:53:30	Lucas Delfino:	entre parentesis
+02:53:31	Lucas Delfino:	o comillas
+02:53:32	Lucas Delfino:	?
+02:53:35	[TUTOR] Gabriel Alejandro López Trujillo:	git config --global user.name “Juan Perez”
+02:53:42	Dalma Belizán:	con minuscula?
+02:53:44	Santi Vidal:	Peppiito
+02:53:54	Jorge Beliera:	por ahora ningun error
+02:53:54	Ricardo Cordo:	junto o separado el apelliido
+02:54:03	[TUTOR] Gabriel Alejandro López Trujillo:	Perfecto Jorge!
+02:54:05	[Tutora] Katherine Ruiz Ojeda:	sisi
+02:54:05	[TUTOR] Gabriel Alejandro López Trujillo:	Puede ir separado
+02:54:07	[Tutora] Melisa Ferreyra:	se puede colocar espacio
+02:54:08	Jorge Beliera:	fuaa yo ya le puse mayusculas jajaj
+02:54:09	[ Tutor ] Brayann Farfan:	si si como quieran
+02:54:10	FranciscoNuñez:	disculpa podes repetir
+02:54:14	FranciscoNuñez:	la ultima parte
+02:54:20	[TUTOR] Gabriel Alejandro López Trujillo:	git config --global user.name “Juan Perez”
+02:54:21	Sebastián Romero:	me aparece error con el mail
+02:54:33	Sebastián Romero:	error: could not lock config file C:/Users/Casa/.gitconfig: Permission denied
+02:54:35	[Tutora] Katherine Ruiz Ojeda:	Tengan en cuenta que es algo que los que trabajan con ustedes lo podrían ver
+02:54:40	[Tutora] Katherine Ruiz Ojeda:	No pongan goku
+02:54:41	[Tutora] Katherine Ruiz Ojeda:	jaja
+02:54:55	Jorge Beliera:	no me gusta entonces
+02:54:55	Jorge Beliera:	jajaja
+02:54:55	Emiliano Alonso:	lio messi
+02:54:59	Sergio Bragunde:	ah bueno ya lo cambio por vegetta
+02:55:04	[Tutora] Katherine Ruiz Ojeda:	jajajaja
+02:55:11	Robinson Betancur Marin:	Goku
+02:55:12	Santi Vidal:	es  sin punto seba
+02:55:13	Ricardo Cordo:	im batman
+02:55:14	Sergio Bragunde:	jajaja
+02:55:23	Emiliano Alonso:	que grande nacho scococo
+02:55:30	Jorge Beliera:	no bueno
+02:55:31	Jorge Beliera:	jajaj
+02:55:39	Sebastián Romero:	git config --global user.email "sebas.nicolas.romero@gmail.com"
+02:55:42	Sebastián Romero:	lo puse así
+02:55:45	[Tutora] Katherine Ruiz Ojeda:	Cortita y al pie
+02:55:46	[Tutora] Katherine Ruiz Ojeda:	jaja
+02:55:46	Malena Kiryluk:	noo pobre nacho :(
+02:56:17	[TUTOR] Gabriel Alejandro López Trujillo:	git config --list
+02:56:19	Jorge Beliera:	nop
+02:56:21	Dalma Belizán:	shi
+02:56:22	Lucas Delfino:	si
+02:56:23	FranciscoNuñez:	si
+02:56:23	Mitchell Davila:	sii
+02:56:24	Emiliano Alonso:	yes
+02:56:27	Mauricio Zapiola:	menos cosas
+02:56:37	Jorge Beliera:	.mail .user
+02:56:43	Mauricio Zapiola:	lo que configuramos precisamente
+02:56:56	Rocio Badino:	si apareceee
+02:56:58	Emiliano Alonso:	no me tira el mail
+02:57:00	Emiliano Alonso:	solo el nombre
+02:57:13	Sergio Bragunde:	un esxito
+02:57:14	FranciscoNuñez:	salio joya
+02:57:15	Mitchell Davila:	salio perfecto
+02:57:19	[TUTOR] Gabriel Alejandro López Trujillo:	Emi
+02:57:19	[TUTOR] Gabriel Alejandro López Trujillo:	git config --global user.email “juanperez@gmail.com”
+02:57:21	Jorge Beliera:	por ahora todo bien
+02:57:21	Carlos Santiago Lavia:	de diezz
+02:57:21	Sergio Bragunde:	éxito*
+02:57:23	Daniel Alejandro Lues:	mmm  uso mayusculas
+02:57:33	Mitchell Davila:	EXITO
+02:57:39	Sebastián Romero:	git config --global user.email "sebas.nicolas.romero@gmail.com"
+02:57:43	Sebastián Romero:	puse algo mal?
+02:57:45	[TUTOR] Gabriel Alejandro López Trujillo:	Vamooo 🙌
+02:57:45	Miqueas Gutiérrez:	pasa algo si puse mi correo con coma? recién me di cuenta aaaaaa
+02:57:49	Ariel Gomez:	si, salió
+02:57:52	Emiliano Alonso:	como se vuelve atrás?
+02:58:03	[TUTOR] Ignacio Curto:	Esta bien Sebaa
+02:58:08	María Victoria González Amato:	Tenemos que usar el mail con el que estamos en el curso o puede ser otro?
+02:58:18	[TUTOR] Gabriel Alejandro López Trujillo:	Volve a declararlo Miqueas
+02:58:22	[TUTOR] Gabriel Alejandro López Trujillo:	Con el comando
+02:58:23	[TUTOR] Ignacio Curto:	Puede ser otro Maria
+02:58:49	[Tutor] Darío Rojas:	esta movido el chat, si no obtienen respuestas manden por la plataforma a sus tutores!
+02:58:56	[Tutora] Katherine Ruiz Ojeda:	Clave respetar los guiones y espacios
+02:59:07	[TUTOR] Tomas Babikian:	Clave respetar todo! Sino se hace lio
+02:59:38	Emiliano Alonso:	hecho
+03:02:19	Lucas Delfino:	nosotros lo hacemos con la carpeta de nuestro proyecto?
+03:02:39	Valentino Paterno:	crea otra profe
+03:02:40	Valentino Paterno:	dea
+03:02:41	Emiliano Alonso:	no me la container
+03:02:41	Valentino Paterno:	jajajajaaj
+03:02:51	Mitchell Davila:	fan de messi
+03:02:54	Dalma Belizán:	.______.
+03:03:03	Esteban Bogoya:	En esa imagen faltaba el 7mo balon :v
+03:03:14	Lucas Delfino:	nosotros lo hacemos con la carpeta de nuestro proyecto?
+03:03:16	[Tutora] Katherine Ruiz Ojeda:	estoy
+03:03:22	[Tutora] Katherine Ruiz Ojeda:	AJJA si
+03:03:30	Esteban Bogoya:	Jajajaja
+03:04:19	Mitchell Davila:	sale gris
+03:04:20	Sergio Bragunde:	x la carpeta .git
+03:05:52	Sebastián Romero:	perdón, recién puse el user.name, cómo es el comando de list?
+03:06:05	[Tutora] Katherine Ruiz Ojeda:	git config --list
+03:06:17	FranciscoNuñez:	git config  --list
+03:06:32	Santi Vidal:	🤔
+03:07:08	Sebastián Romero:	después de list no pusimos ningún comando, no?
+03:07:19	Rocio Badino:	apareceee
+03:07:19	[TUTOR] Gabriel Alejandro López Trujillo:	Ese fue el ultimo Seba
+03:07:21	Esteban Bogoya:	eso lo hacemos con la carpeta de nuestro proyecto?
+03:07:25	Sebastián Romero:	Dale, gracias
+03:07:33	Jessie Mercado:	mm no me aparece
+03:07:36	Carlos Santiago Lavia:	sisisi
+03:07:36	Rocio Badino:	sii
+03:07:36	Sergio Bragunde:	si
+03:07:37	Daniel Alejandro Lues:	si
+03:07:40	Claudio Romañuk:	si
+03:07:45	cintia bozzani:	si
+03:07:46	Ricardo Cordo:	sin el master
+03:07:55	Emiliano Alonso:	sisi
+03:08:00	Jessie Mercado:	alright !
+03:08:01	Dalma Belizán:	sisi
+03:08:02	Jessie Mercado:	done
+03:08:05	Jorge Beliera:	en ubuntu pongo open in terminal?
+03:08:08	Miqueas Gutiérrez:	si
+03:08:11	Mitchell Davila:	lo hacemos con nuestro proyecto_
+03:08:17	[ Tutor ] Brayann Farfan:	si jorge 
+03:08:18	Simón Saiz Mansilla:	no dice master el mio
+03:08:22	Ricardo Cordo:	es Windows T_T
+03:08:23	[ Tutor ] Brayann Farfan:	solo abri la terminal
+03:08:23	Daniel Alejandro Lues:	aparece sin el master en windows 10
+03:08:26	Esteban Bogoya:	No tanto ahora
+03:08:26	[ Tutor ] Brayann Farfan:	y listo
+03:08:27	Pablo Peralta:	sin el master y con windows
+03:08:28	Eliana Diaz:	no dice master
+03:08:29	FranciscoNuñez:	maso ajaja
+03:08:29	Rocio Badino:	en el mio no aparece master
+03:08:30	Emiliano Alonso:	la palabra master no me aparece
+03:08:33	Emiliano Alonso:	no imoirta?
+03:08:35	Emiliano Alonso:	nada
+03:08:36	Daniel Alejandro Lues:	nada
+03:08:38	Miqueas Gutiérrez:	no dice nada
+03:08:38	Sebastián Romero:	no dice nada
+03:08:39	Juliana Carvalho:	puedo cerrar la otra ventana que pusimoslos comandos?
+03:08:40	Mitchell Davila:	aun no esta al dia jajaj
+03:08:41	Mauricio Zapiola:	nop
+03:08:41	Esteban Bogoya:	Estoy haciendole muchas modificaciones y quite casi todo
+03:08:42	Dalma Belizán:	No dice nada entre parentesis
+03:08:43	Dalma Belizán:	D:
+03:08:44	Franco Panicce:	solamente la ruta
+03:08:44	FranciscoNuñez:	LENNT1194+Admin@Lennt1194 MINGW64 ~/Desktop/proyectoUpnever$
+03:08:46	Rocio Badino:	rocio@DESKTOP-AKJKJPO MINGW64 ~/Desktop/byroba
+03:08:48	[Tutor] Darío Rojas:	en Windows 10 no dice nada
+03:08:52	Rocio Badino:	eso aparece
+03:08:52	Emiliano Alonso:	Emiliano@LAPTOP-DUJTCQU8 MINGW64 ~/Desktop/proyectoEmiliano
+03:08:53	[TUTOR] Gabriel Alejandro López Trujillo:	No pasa nada que no les aparezca el master
+03:08:56	[TUTOR] Tomas Babikian:	Chicos, también puede usar la consola de VSC que es super sencilla y cómoda. La pueden abrir desde una de las pestañas superiores del vsc.
+03:08:57	Dalma Belizán:	Wanryu@Javi MINGW64 ~/Desktop/proyectothebeginning$
+03:09:00	Daniel Alejandro Lues:	aparece marli@DESKTOP-HRH3D1L MINGW64 ~/Desktop/proyectoLaGranja
+03:09:03	Emiliano Alonso:	ahh ok tengo Windows 10
+03:09:05	[TUTOR] Gabriel Alejandro López Trujillo:	Fijese que la ruta este bien no mas
+03:09:16	[TUTOR] Gabriel Alejandro López Trujillo:	Y están parados en la carpeta de su proyecto
+03:09:18	[TUTOR] Tomas Babikian:	Oka! Después lo repasamos!
+03:09:23	[TUTOR] Tomas Babikian:	Sorry
+03:09:31	Roberto Rossa:	En vscode esta la misma consola.
+03:09:42	[TUTOR] Gabriel Alejandro López Trujillo:	Exacto Roberto!
+03:09:51	Lautaro Losio:	No aparece porque no crearon el repo todavia me parece
+03:11:26	Carlos Santiago Lavia:	ahora si aparece el master
+03:11:27	Valentino Paterno:	ahí si me apareció el (master)
+03:11:29	Dalma Belizán:	sisisisi
+03:11:32	Eliana Diaz:	ahora si sale master
+03:11:33	Emiliano Alonso:	ahí aparece el mal parido
+03:11:36	Rocio Badino:	ahora si
+03:11:46	FranciscoNuñez:	aparecio
+03:11:54	Emiliano Alonso:	siis
+03:11:55	Valentino Paterno:	que haría el comando gin init?
+03:11:56	[ Tutor ] Brayann Farfan:	chicos, anoten estos comando, en un papel, hasta que se los aprendan, al menos los basicos, pero no tienen nada de malo anotarlos
+03:11:58	Florencia Togliefoso:	si
+03:12:00	[TUTOR] Gabriel Alejandro López Trujillo:	git init
+03:12:03	Dalma Belizán:	ño
+03:12:06	Dalma Belizán:	bueno
+03:12:08	Emiliano Alonso:	anotado todo
+03:12:22	[Tutor] Darío Rojas:	git init crea el repositorio local (la carpetita que esta oculta)
+03:12:28	[TUTOR] Gabriel Alejandro López Trujillo:	☝️
+03:12:37	Valentino Paterno:	gracias dario
+03:12:38	[TUTOR]Victor Hernandez:	Esten pendiente que tiran los comandos en la ruta adecuada!!
+03:12:49	Esteban Bogoya:	Crack Dario
+03:12:59	[TUTOR]Victor Hernandez:	git status
+03:13:10	[Tutor] Darío Rojas:	🤓
+03:14:05	[TUTOR] Gabriel Alejandro López Trujillo:	Importantisimo! SIEEEEMPRE lean lo que les dice la consola
+03:14:24	[TUTOR]Victor Hernandez:	git add .
+03:14:27	[TUTOR] Gabriel Alejandro López Trujillo:	Les suele decir todo lo que necesitan saber e incluso el motivo por los cuales se están produciendo los errores
+03:14:31	Santi Vidal:	JSJSJSJS
+03:14:39	Mitchell Davila:	explotaomos
+03:14:45	[TUTOR] Gabriel Alejandro López Trujillo:	Jaja
+03:14:57	[TUTOR] Gabriel Alejandro López Trujillo:	git add .
+03:15:03	Lucia Laporte:	buenas noches recién puedo entrar jdja
+03:15:08	Lucia Laporte:	😫
+03:15:36	Rocio Badino:	oki
+03:15:41	Mitchell Davila:	lo hacemos
+03:15:42	Rocio Badino:	me asuste que no aparecia jajaj
+03:15:48	Mitchell Davila:	¨?
+03:16:28	Mitchell Davila:	esto lo hacemos?
+03:16:34	Tomas Sosa Garcia:	eso
+03:16:35	Robinson Betancur Marin:	messsage
+03:16:39	Mitchell Davila:	ok miedo
+03:16:40	Santi Vidal:	2 M?
+03:16:56	[Tutor] Darío Rojas:	commit lleva 2 m
+03:17:07	Sebastián Romero:	dale flor porfa
+03:17:17	Robinson Betancur Marin:	git commit -m " mensaje que quiero ponerle "
+03:17:23	[TUTOR] Gabriel Alejandro López Trujillo:	git commit -m "first commit"
+03:17:24	Jorge Beliera:	probando git
+03:17:26	Jorge Beliera:	jajaj
+03:17:27	[ Tutor ] Brayann Farfan:	en esa descripción sean breves y concisos , no un testamento
+03:17:37	[TUTOR]Victor Hernandez:	git commit -m "First commit"
+03:17:52	[TUTOR] Gabriel Alejandro López Trujillo:	Importante lo que dice Bray, no hagan el primer testamento. Preciso con el mensajito
+03:17:56	[TUTOR]Victor Hernandez:	lo que va entre paréntesis se usa mas que nada para avisar de que va ese commit
+03:17:57	[TUTOR]Victor Hernandez:	por ejemplo
+03:18:02	[TUTOR]Victor Hernandez:	editaste la pagina de contacto
+03:18:03	Lucas Delfino:	commit -m o r?
+03:18:13	[Tutora] Katherine Ruiz Ojeda:	-m
+03:18:14	Luciana Garro:	git commit -m "first commit"
+03:18:14	Valentino Paterno:	commit -m
+03:18:18	[TUTOR]Victor Hernandez:	colocas git commit -m "actualización contacto"
+03:18:18	Esteban Bogoya:	8 files changed, 341 insertions(+) create mode 100644 estilos/style.css create mode 100644 img/descarga.jpg create mode 100644 img/logo.jpg create mode 100644 index.html create mode 100644 secciones/contacto.html create mode 100644 secciones/nosotros.html create mode 100644 secciones/productos.html
+03:18:28	Esteban Bogoya:	:D
+03:18:31	[TUTOR] Gabriel Alejandro López Trujillo:	Esta perfecto Esteban!
+03:18:35	[TUTOR] Ignacio Curto:	Vamooo
+03:18:37	Jorge Beliera:	me aparecio la biblia por la cantidad de img que tenia
+03:18:38	[Tutor] Darío Rojas:	no pongan nada raro que luego cuando vean GitHub van a descubrir que los demás pueden leer lo que ustedes pusieron como mensaje en el commit que hicieron 😅
+03:18:41	[TUTOR] Gabriel Alejandro López Trujillo:	Te aparece tantos porque tenias mas que la profe
+03:18:52	Carlos Santiago Lavia:	git status?
+03:19:00	FranciscoNuñez:	[master (root-commit) 3ba3e94] first commit 12 files changed, 438 insertions(+) create mode 100644 estilos/style.css create mode 100644 img/Logo.jpg create mode 100644 img/Logo2.jpg create mode 100644 img/accesorios.jpg create mode 100644 img/imagenprincipal.jpg create mode 100644 img/productos.jpg create mode 100644 img/quienesomos.jpg create mode 100644 index.html create mode 100644 secciones/contacto.html create mode 100644 secciones/nosotros.html create mode 100644 secciones/perfil.html create mode 100644 secciones/productos.html
+03:19:01	[TUTOR] Gabriel Alejandro López Trujillo:	Re si Carlos!
+03:19:07	[Tutora] Katherine Ruiz Ojeda:	👏🏽
+03:19:08	[TUTOR] Gabriel Alejandro López Trujillo:	El comando chusma
+03:19:22	[Tutora] Katherine Ruiz Ojeda:	Ante la duda, git status
+03:19:26	Emiliano Alonso:	que esta todo piola (?
+03:19:32	Jorge Beliera:	ta piola
+03:19:41	Carlos Santiago Lavia:	Esta bueno git status
+03:19:52	Jorge Beliera:	git status al git status
+03:19:53	[Tutora] Katherine Ruiz Ojeda:	jajaja
+03:20:00	Emiliano Alonso:	👌
+03:20:01	Ricardo Cordo:	no hablemos de comida
+03:20:29	[TUTOR] Gabriel Alejandro López Trujillo:	Yo tiro antes de agregar, después de agregar y después de commitear jaja
+03:20:30	Jessie Mercado:	Nuevo toc desbloqueado
+03:20:30	Dalma Belizán:	Si la vida se codeara, se imaginan x_x
+03:20:31	Jessie Mercado:	ahahaha
+03:20:33	Manuela Díaz Hidalgo:	Datazo para la vida
+03:20:41	Jorge Beliera:	literal
+03:20:51	Leonel Ledesma:	😱
+03:21:02	Esteban Bogoya:	anotadooos
+03:21:11	[TUTOR] Gabriel Alejandro López Trujillo:	git statusgit add .git commit -m "mensajito de amor"
+03:21:33	Jorge Beliera:	git commit -m "no se que agregue pero funca"
+03:21:39	Carlos Santiago Lavia:	git commit -m "volve marta"
+03:21:40	Sebastián Romero:	el git commit -m es para agregar todo al repositorio?
+03:21:53	Manuela Díaz Hidalgo:	jajajaja volve marta
+03:22:05	[Tutora] Katherine Ruiz Ojeda:	-m es para dejar una nota de lo que hicimos
+03:22:05	[Tutor] Darío Rojas:	Sebastian git add . es para agregar todo
+03:22:16	[Tutor] Darío Rojas:	add significa agregar
+03:22:21	[Tutora] Katherine Ruiz Ojeda:	Claro, como dice dari, el add . Agrega
+03:22:26	[TUTOR] Gabriel Alejandro López Trujillo:	Con el commit le das un nombre para identificar el cambio que hicieron
+03:22:38	Esteban Bogoya:	Ya nos vemossss
+03:22:42	Sebastián Romero:	ahh, oka oka, no entendía que comando había agregado todo
+03:22:48	Sebastián Romero:	graciass
+03:22:56	[TUTOR] Gabriel Alejandro López Trujillo:	El git add .
+03:23:04	[TUTOR] Gabriel Alejandro López Trujillo:	Fue el que agrego todito
+03:23:06	Pablo Peralta:	el commit me funciono pero me tiro esto y ya había configurado el usuario y mailAuthor identity unknown*** Please tell me who you are.Run  git config --global user.email "you@example.com"  git config --global user.name "Your Name"to set your account's default identity.Omit --global to set the identity only in this repository.
+03:23:18	[Tutora] Katherine Ruiz Ojeda:	Pablo no estas logueado
+03:23:39	[Tutora] Katherine Ruiz Ojeda:	Por eso te dice que te identifiques con el user mail y name
+03:23:41	Simón Saiz Mansilla:	me paso lo mismo que Pablo
+03:23:47	Valentino Paterno:	para que serviría el git add .? porque no aparece nada
+03:23:49	[Tutora] Katherine Ruiz Ojeda:	Claro, no les tomo la configuracion
+03:23:52	Pablo Peralta:	y como me logueo?
+03:23:56	[TUTOR] Gabriel Alejandro López Trujillo:	ASISTENCIA PASADA ✅
+03:24:20	[Tutora] Katherine Ruiz Ojeda:	git config --global user.email "you@example.com"  git config --global user.name "Your Name"
+03:24:40	Pablo Peralta:	eso lo hice en el cmd
+03:24:42	[Tutor] Darío Rojas:	David HerediaXimena AguiarEstan presentes?
+03:25:14	[TUTOR] Gabriel Alejandro López Trujillo:	Chic@s de mi tutoriaaaa, les deje mensajito en el canal 👀
+03:25:23	Pablo Peralta:	y cuando corro --list aparece bien el user y el mail
+03:25:28	Pablo Peralta:	que me falto hacer?
+03:25:33	[TUTOR] Tomas Babikian:	Asistencia pasada!
+03:26:01	[Tutora] Katherine Ruiz Ojeda:	Franco Gandini 🚨 Si estas en clase escribime asi confirmamos asistencia! Gracias!
+03:27:36	Jorge Beliera:	eso de que la terminal de git sea la misma que la de linux esta bueno
+03:27:46	Jorge Beliera:	comodo
+03:27:56	Jorge Beliera:	es comodo*
+03:31:54	Florencia Togliefoso:	sii
+03:31:55	Esteban Bogoya:	yes
+03:31:57	Carlos Santiago Lavia:	sii
+03:31:57	Roberto Rossa:	si
+03:31:57	María Victoria González Amato:	Sii
+03:31:58	Mauricio Zapiola:	aca estamos
+03:31:58	[TUTOR] Gabriel Alejandro López Trujillo:	👀
+03:31:58	Jorge Beliera:	murieron todos
+03:32:00	Lucas Delfino:	volvimo
+03:32:01	Francisco Müller:	tamos
+03:32:01	nadia peralta:	si
+03:32:01	Norberto Sigel:	si
+03:32:05	Sergio Bragunde:	si
+03:32:06	Emiliano Alonso:	estamos
+03:32:17	Jorge Beliera:	ya pasaron la asistencia, ya nos podemos ir
+03:32:18	Jorge Beliera:	jajaj
+03:32:25	Sergio Calzada:	acá andamos
+03:35:05	Valentino Paterno:	cada pelota seria un commit? o un cambio? o que
+03:36:01	[TUTOR] Gabriel Alejandro López Trujillo:	Si Valen! Seria un commit
+03:36:04	[TUTOR] Ignacio Curto:	Claro son commits!
+03:36:06	[TUTOR] Tomas Babikian:	Claro Valentino, cada pelotilla seria un cambio, los que están sobre la master es un cambio agregado.
+03:36:24	Valentino Paterno:	Graciasss
+03:36:35	[TUTOR] Gabriel Alejandro López Trujillo:	Una rama seria otra linea de tiempo (al mejor estilo de Thanos jaja) para realizar modificaciones para posteriormente definir si se une o no a la rama principal (master/main)
+03:37:01	Emiliano Alonso:	después se hace un multiverso de proyectos? jaja
+03:37:17	Jorge Beliera:	despedido
+03:37:54	Valentino Paterno:	o sea que los commits no se pueden borra
+03:37:55	Emiliano Alonso:	eso se arregla en el visual?
+03:37:56	Valentino Paterno:	borrar
+03:37:56	Irene Pintor:	te vas a odiar jaja
+03:38:02	Dalma Belizán:	ctrl z te traño
+03:38:55	Lucas Delfino:	esto lo anotamos en nuestro cuadernito?
+03:39:00	[ Tutor ] Brayann Farfan:	si si
+03:39:08	Dalma Belizán:	Y lo hacemos también?
+03:39:34	Jorge Beliera:	git status
+03:39:35	Jorge Beliera:	jajaja
+03:40:07	Valentino Paterno:	jajjaja
+03:40:13	[TUTOR] Ignacio Curto:	Si Dalma lo pueden seguir pero como les sea más cómodo, la idea es que entiendan cómo se trabaja
+03:40:59	Esteban Bogoya:	te seguimos?
+03:41:11	Esteban Bogoya:	Ah ya lo preguntaron
+03:41:12	Esteban Bogoya:	Sorry
+03:41:38	[TUTOR] Gabriel Alejandro López Trujillo:	git branch
+03:41:52	[TUTOR] Gabriel Alejandro López Trujillo:	git branch style
+03:42:22	Jorge Beliera:	style
+03:42:23	Sergio Bragunde:	style
+03:42:24	Carlos Santiago Lavia:	style
+03:42:40	[TUTOR] Gabriel Alejandro López Trujillo:	git checkout style
+03:42:57	Valentino Paterno:	y en el () te cambia a style tambien
+03:43:30	Jorge Beliera:	si
+03:43:31	Carlos Santiago Lavia:	sisi
+03:43:32	Santi Vidal:	sii
+03:43:33	Sergio Bragunde:	si perfecto
+03:43:33	Rocio Badino:	yes
+03:43:35	Esteban Bogoya:	zi
+03:43:42	FranciscoNuñez:	🙃
+03:45:06	Esteban Bogoya:	de acuerdo
+03:45:07	Jorge Beliera:	ojo que empieza la guerra
+03:45:10	Jorge Beliera:	jajja
+03:45:19	Sergio Bragunde:	vamos cavani
+03:45:36	Esteban Bogoya:	Despues de Luis Diaz
+03:46:36	Mitchell Davila:	porque messi
+03:46:53	Esteban Bogoya:	git checkout
+03:46:55	Carlos Santiago Lavia:	git checkout
+03:47:15	Jorge Beliera:	git checkout master
+03:47:33	Valentino Paterno:	mejor que nosotros no hagamos eso cierto? o sea, commit por solo 1 cambio
+03:48:11	Lautaro Losio:	Si solo habia que hacer ese cambio entonces hay que hacerlo..
+03:48:31	[TUTOR] Ignacio Curto:	Lo mejor es que lo hagas en cambios dentro de todo importantes, por ejemplo "actualicé el header" o "sección de galería"
+03:48:41	Esteban Bogoya:	no esta
+03:48:41	Valentino Paterno:	claaaro
+03:48:44	Jorge Beliera:	no commit
+03:48:45	Valentino Paterno:	no por agregar un h
+03:48:46	Emiliano Alonso:	se borro
+03:48:47	Ariel Gomez:	no esta
+03:48:48	Emiliano Alonso:	se fue
+03:48:49	Lucas Delfino:	estas en master
+03:48:50	Miguel Andres Muñoz:	esta en el master
+03:48:51	Mitchell Davila:	es decir que si quiero hacer cambios en html o css debo estar haciendo eso ?
+03:48:52	Mauricio Zapiola:	cambiaste de branch
+03:48:52	Sebastián Romero:	:o
+03:48:53	agustin ferigni:	por la rama
+03:48:53	Lucas Delfino:	no en style
+03:48:53	Pablo Peralta:	quedo en style
+03:48:54	Rocio Badino:	porque lo pusiste en style
+03:48:54	[TUTOR] Gabriel Alejandro López Trujillo:	Quedo en el otro multiverso 👀
+03:48:56	Esteban Bogoya:	Si commiteo pero el cambio no fue en la master
+03:49:00	Carlos Santiago Lavia:	el cambio es en la rama style
+03:49:00	Miguel Andres Muñoz:	y no en style
+03:49:03	Leonel Gonzalez:	cambiaste de rama
+03:49:06	Esteban Bogoya:	Multiverso de codigo
+03:49:08	Jorge Beliera:	no hay que "actualizarlo"?
+03:49:29	Rocio Badino:	omg
+03:49:52	Lucas Delfino:	git branch
+03:49:54	Jorge Beliera:	git checkout
+03:49:55	Emiliano Alonso:	style
+03:49:56	Miguel Andres Muñoz:	checkout
+03:49:57	Carlos Santiago Lavia:	git checkout
+03:49:58	Sergio Bragunde:	git ckeckout
+03:50:01	Rocio Badino:	git checkout
+03:50:04	Esteban Bogoya:	en ese paso se pasaria a revisar si si se puede agregar ese cambio a la rama master?
+03:50:05	Santi Vidal:	aa los circulitos eran las ramaaas y master eera laa primera?  y messii la 2da?
+03:50:07	Leonel Gonzalez:	checkout master
+03:50:07	Rocio Badino:	style
+03:50:09	Jorge Beliera:	style
+03:50:09	Sergio Bragunde:	style
+03:50:11	Leonel Gonzalez:	style
+03:50:13	Claudio Romañuk:	style
+03:50:19	Florencia Togliefoso:	style
+03:50:25	Jorge Beliera:	magia
+03:50:31	Rocio Badino:	y si queres pasar a master los cambios?
+03:51:08	[Tutora] Melisa Ferreyra:	lo vemos ahora
+03:52:31	Jorge Beliera:	style
+03:52:33	Rocio Badino:	syle
+03:52:39	Mauricio Zapiola:	*
+03:53:00	Jorge Beliera:	re boton
+03:53:01	Jorge Beliera:	jajaja
+03:53:09	Esteban Bogoya:	O sea pusiste el cambio en la rama principal
+03:53:17	Sebastian Pastor:	se puede eliminar una rama?
+03:53:23	Daniel Alejandro Lues:	una consulta a ver si entendí en la rama style tengo una copia de la master sobre la cual trabajare si otro integrante del equipo agrega y fusiona cambios a la rama master en mi rama style se reflejan eso cambios de la rama principal..que han sido confirmados??
+03:53:43	[TUTOR] Gabriel Alejandro López Trujillo:	Exacto! Funciono la rama style a la master
+03:53:44	Jorge Beliera:	una pavada es
+03:53:45	Jorge Beliera:	no
+03:53:49	Valentino Paterno:	nop
+03:53:49	Lucas Delfino:	repásalo si te sobra tiempo lu , porque se me lagio la cabeza
+03:53:50	Florencia Togliefoso:	no
+03:53:51	Tomas Borines:	no
+03:53:51	Mitchell Davila:	sii
+03:53:52	Ariel Gomez:	no
+03:53:54	Jorge Beliera:	espero que no
+03:53:55	Jorge Beliera:	jajaj
+03:53:56	Mitchell Davila:	cumplio su funcion
+03:53:56	Miguel Andres Muñoz:	no
+03:54:03	Rocio Badino:	no se borra
+03:54:39	Mitchell Davila:	o en la rama master haciendo fiesta  jaja
+03:55:09	Daniel Alejandro Lues:	por eso trabajo en la style
+03:55:58	Sergio Bragunde:	yo voy a crear dos ramas HTML y style esta bien?, xq asi hago cada modificación correspondiente al css o al html
+03:56:14	Rocio Badino:	osea de style a master se puede fusionar pero agregar de master a style no?
+03:56:18	[TUTOR] Gabriel Alejandro López Trujillo:	Sergio! No se trabaja de esa forma
+03:56:22	Rocio Badino:	no se si me explique
+03:56:27	[TUTOR] Ignacio Curto:	Mmm puede ser un poco incómodo eso Sergio!
+03:56:27	[TUTOR] Gabriel Alejandro López Trujillo:	El nombre "style" de la rama es solo eso, un nombre
+03:56:32	Jorge Beliera:	hay que si o si crear una nueva rama o hay alguna manera de "actualizarlo"?
+03:56:39	[TUTOR] Gabriel Alejandro López Trujillo:	No esta relacionado con el CSS
+03:56:45	Sebastián Romero:	perdón, en resumen, que haría el git merge?
+03:56:48	Sergio Bragunde:	ahh ok gracias
+03:56:53	Sebastián Romero:	pq no me quedó bien definido
+03:56:56	[TUTOR] Ignacio Curto:	Fusiona 2 ramas Seba
+03:57:00	[Tutor]Luciano Giraudi:	seba, fusiona dos ramas
+03:57:06	Sebastián Romero:	ah oka oka, mil gracias
+03:57:16	Lucas Delfino:	si
+03:57:19	Dalma Belizán:	No
+03:57:20	Florencia Togliefoso:	si
+03:57:20	Esteban Bogoya:	zi
+03:57:21	Lucas Delfino:	me perdi banda
+03:57:25	Norberto Sigel:	Lu, yo puedo tener el proyecto subido en la rama principal po master
+03:57:28	Jorge Beliera:	como lo necesite el grupo
+03:57:32	Malena Kiryluk:	fua dalma
+03:57:33	Esteban Bogoya:	jajajaj repasemolo solo por si acaso
+03:57:34	[Tutor] Darío Rojas:	merge es unir. Git merge une dos ramas. Presten atención a los nombres de los comandos
+03:57:35	Magalí Marmo:	y que propiedades prioriza cuando fucionas? la original?
+03:57:37	Lucas Delfino:	quise seguirte con los codigos me pege una perdida
+03:57:39	Norberto Sigel:	y en una rama puedo ir modificando mi proyecto
+03:57:53	Dalma Belizán:	Bueno perdón Malena xD
+03:57:56	Lucia Laporte:	esta todo medio difícil
+03:57:59	Lucas Delfino:	todo lo que pusiste lo fui anotando como pasos
+03:58:03	Malena Kiryluk:	jajajaj 
+03:58:04	Lucas Delfino:	pero en un tiro no sabia ni que anotar ya jaja
+03:58:07	Dalma Belizán:	Es que lo entendí a la primera no como todas las otras clases xd
+03:58:16	[Tutor]Luciano Giraudi:	sobre la q estas parada
+03:58:21	Norberto Sigel:	y lo que va quedando bien, lo voy colocando en la rama master ?
+03:58:23	[TUTOR] Gabriel Alejandro López Trujillo:	Si Norberto! Y cuando tengas los cambios que quieres o necesitas, guardas, commiteas, te mueves a la master y luego haces el merge para traerte los cambios que hiciste en a otra rama
+03:58:24	Esteban Bogoya:	Si entendi pero a lo ultimo no te segui porque ahora mismo mi proyecto esta en una fase muy sensible y no quiero tocarlo jajaja
+03:58:24	Malena Kiryluk:	jajaja quien pudiera
+03:58:25	Norberto Sigel:	puede ser así ?
+03:58:31	Valentino Paterno:	En realidad esto al ser una sola persona la cual trabaja en el proyecto, no usaríamos git, o si?
+03:58:44	[Tutor]Luciano Giraudi:	magali, prioriza sobre la rama donde vos estas situada
+03:58:52	Ariel Gomez:	en las ramas, seria que estarías trabajando con cualquier lenguaje, html, css javascript y otros no?
+03:58:58	Jorge Beliera:	democracia
+03:59:04	[Tutor]Luciano Giraudi:	claro ariel
+03:59:11	[Tutor]Luciano Giraudi:	git no solo aplica para esto
+03:59:24	[TUTOR] Gabriel Alejandro López Trujillo:	Si Ariel! En ella harias cualquier tipo de cambios
+03:59:33	Ariel Gomez:	gracias!
+03:59:33	Jorge Beliera:	los que faltan se durmieron
+03:59:34	Jorge Beliera:	jajaj
+03:59:39	[TUTOR] Ignacio Curto:	Se usa también en proyectos individuales Valen, capaz no tanto pero a veces puede ser útil!
+03:59:40	Florencia Togliefoso:	jajajajaja
+03:59:42	Lucas Roldan:	jajajajaja
+03:59:44	Lucas Delfino:	con lo que tardamos en la votación iríamos mitad
+03:59:45	Lucas Delfino:	jaja
+03:59:45	Miqueas Gutiérrez:	jajaja
+03:59:48	Valentino Paterno:	Gracias igna
+03:59:50	Gabriela Canales:	jjaajj
+03:59:50	[Tutor] Darío Rojas:	Esteban donde te quedaste?
+03:59:54	Lucia Laporte:	resi
+04:00:00	Ricardo Cordo:	quieren a Messi? el que vota no se va
+04:00:09	[TUTOR] Gabriel Alejandro López Trujillo:	3, 2, 1
+04:00:19	Lucas Delfino:	asi anoto por pasos
+04:00:37	Irene Pintor:	Tengo rama "master", hago una copia (style en este caso) en la que hago modificaciones (sobre el html, NO css) y que no afectan a "master" en absoluto. Si las modificaciones son de mi "agrado" hago un merge y genero los cambios en "master". Correcto?
+04:00:44	Jorge Beliera:	estuvo peliado el partido
+04:00:46	Jorge Beliera:	jajaja
+04:01:03	Ezequiel Ferreira:	las explicaciones son como todo, más vale que sobren a que falten (almenos en este contexto)
+04:01:07	Sebastián Romero:	gracias Irene jasjajja, entendí ahora
+04:03:35	Norberto Sigel:	genial Irene!!! eso había preguntado yo también mas arriba
+04:03:37	Emiliano Alonso:	status después?
+04:03:55	Jorge Beliera:	no se modifico ningun archivo
+04:04:10	[TUTOR] Gabriel Alejandro López Trujillo:	Correcto Irene!
+04:05:17	Jorge Beliera:	Messi el mas mejor
+04:05:38	Benjamin Zarate:	JAJAJJA  clave
+04:06:10	Jorge Beliera:	la argentina menos fan de messi
+04:06:11	Jorge Beliera:	jajaja
+04:06:34	Florencia Togliefoso:	jajajajaja
+04:06:35	[TUTOR] Ignacio Curto:	Vamo Rosariooo
+04:06:38	Jorge Beliera:	git add .
+04:07:15	Jorge Beliera:	si salis de la rama sin hacer commit, perdes lo que hiciste?
+04:07:57	[TUTOR] Gabriel Alejandro López Trujillo:	En caso de que hagas merge te va a tirar un error por no commitear
+04:08:13	Jorge Beliera:	aaah okey
+04:08:24	Pablo Altera:	hay forma de trabajar una rama con un solo archivo y que otra persona trabaje en otra rama con otro archivo y luego hacerles merge a la master por separado?
+04:09:18	Jorge Beliera:	git merge parrafo
+04:09:55	Tomas Sosa Garcia:	para que era git merge
+04:10:18	[TUTOR] Gabriel Alejandro López Trujillo:	Para fusionar las ramas Tomas
+04:10:26	Sebastián Romero:	jajajaj
+04:10:29	Rocio Badino:	hermosooo
+04:10:30	Sebastian Pastor:	cuando haces el commit para que es? es como para dejar un mensaje sobre los cambios hechos?
+04:10:49	Sebastian Pastor:	perfecto
+04:10:54	Sebastian Pastor:	claro
+04:10:54	Lucas Delfino:	eso de Messii2 no entendí , el resto creo entenderlo
+04:10:57	Jorge Beliera:	los prepara
+04:11:11	Mariana Szabo:	commit es compromiso en ingles, seria comprometer los cambios
+04:11:14	Norberto Sigel:	todo de forma local verdad ?
+04:11:30	[TUTOR] Gabriel Alejandro López Trujillo:	Si Norberto! Por el momento toooodo local
+04:11:35	Jorge Beliera:	el add prepara los archivos y el commit confirma esos cambios
+04:11:45	Norberto Sigel:	cooooorrecto! :)
+04:12:04	Sebastian Pastor:	entonces una vez hechos los cambios hago el add . , luego commit y luego me pongo en la rama master para fusionar con merge
+04:12:15	Esteban Bogoya:	delete branch me imagino?
+04:12:32	Jorge Beliera:	D de DELETE
+04:12:39	Jorge Beliera:	supongo (?
+04:12:56	[TUTOR] Ignacio Curto:	Claro!
+04:13:19	Rocio Badino:	entendido
+04:13:22	Jorge Beliera:	si
+04:13:28	Norberto Sigel:	perfecto!
+04:13:36	Rocio Badino:	no Podemos fallar en esta
+04:13:45	[TUTOR] Gabriel Alejandro López Trujillo:	Me pa que no hay
+04:13:49	[Tutora] Katherine Ruiz Ojeda:	Es la proxima
+04:13:49	[Tutora] Katherine Ruiz Ojeda:	si
+04:13:51	[TUTOR] Tomas Babikian:	Sisi la clase que viene
+04:13:53	[TUTOR] Gabriel Alejandro López Trujillo:	Animaciones
+04:13:55	Jorge Beliera:	safamos
+04:13:56	Simón Saiz Mansilla:	Ya me había asustado
+04:13:56	Esteban Bogoya:	Ya me iba asustando
+04:13:57	Rocio Badino:	major jajaj
+04:13:58	[Tutor] Darío Rojas:	se salvaron
+04:14:02	Esteban Bogoya:	Jajaja diossss
+04:14:04	Emiliano Alonso:	no me asustes mas por favor
+04:14:05	Rocio Badino:	mejor*
+04:14:12	Jorge Beliera:	sefamos una clase
+04:14:13	Jorge Beliera:	jajaj
+04:14:14	Lucia Laporte:	:(((
+04:14:20	Lucia Laporte:	igual ya tenemos dos
+04:14:30	Santi Vidal:	izi pizzi
+04:14:36	[TUTOR] Gabriel Alejandro López Trujillo:	Este no es para ahora, por las dudas
+04:14:38	[Tutor] Darío Rojas:	cla
+04:14:39	[TUTOR] Gabriel Alejandro López Trujillo:	No se confundan jaja
+04:14:39	Santi Vidal:	Graciaas Profe!
+04:14:44	Luciana Garro:	https://github.com/
+04:14:54	Jorge Beliera:	ya ta creada
+04:15:40	Sebastián Romero:	pero y cómo podemos adjuntarle eso a uds?
+04:15:48	Sebastián Romero:	ah oka oka
+04:15:50	Florencia Togliefoso:	joyaa
+04:16:00	Jorge Beliera:	ya lo tentaste con github
+04:16:01	Jorge Beliera:	jajaj
+04:16:03	Emiliano Alonso:	🙄
+04:16:08	Rocio Badino:	hermoso
+04:16:09	Lucas Delfino:	😵
+04:16:13	Rocio Badino:	siii
+04:16:14	Florencia Togliefoso:	si
+04:16:15	Jorge Beliera:	si
+04:16:16	Carlos Santiago Lavia:	siii
+04:16:16	Mauricio Zapiola:	si
+04:16:18	César Bonato:	si
+04:16:18	[TUTOR] Gabriel Alejandro López Trujillo:	🙌
+04:16:18	Ezequiel Ferreira:	estuvo buena
+04:16:19	Miguel Andres Muñoz:	si
+04:16:19	Claudio Romañuk:	sii
+04:16:19	Esteban Bogoya:	zi
+04:16:19	Sergio Bragunde:	siii
+04:16:19	Ariel Gomez:	joya!
+04:16:21	Rocio Badino:	una tranquila jajaj
+04:16:22	Norberto Sigel:	si si
+04:16:22	Mariana Szabo:	sisi
+04:16:22	Jorge Beliera:	facil pero importante
+04:16:23	FranciscoNuñez:	si
+04:16:24	Ariel Gomez:	estuvo bueno!
+04:16:26	[Tutora] Katherine Ruiz Ojeda:	Hoy se valora! No lo olviden!
+04:16:30	[TUTOR] Ignacio Curto:	Esooo
+04:16:36	Lucia Laporte:	siii
+04:16:41	Leonel Ledesma:	nos vemos profe
+04:16:42	Magalí Marmo:	muchas gracias!
+04:16:43	Florencia Togliefoso:	gracias!!
+04:16:47	[Tutor] Darío Rojas:	descansen!
+04:16:47	Tomas Borines:	Buenas noches!!!
+04:16:48	[Tutora] Melisa Ferreyra:	buena snoches
+04:16:48	Norberto Sigel:	nos vemos Lu
+04:16:49	Lucia Laporte:	gracias nos vemos profe
+04:16:50	[TUTORA] Natalia Fernandez:	buenas noches!
+04:16:50	[TUTOR] Tomas Babikian:	Que descansen!
+04:16:50	Jorge Beliera:	chau
+04:16:51	Ariel Gomez:	buen finde!!!
+04:16:51	Esteban Bogoya:	Descanseeeen

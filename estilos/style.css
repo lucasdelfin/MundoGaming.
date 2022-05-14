@@ -1,0 +1,314 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-areas:
+    "logo"
+    "navbar"
+    "login" ;
+    background-color:orange;
+    padding: 20px;
+    font-family: 'Nunito', sans-serif;
+    
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin-left: 200px;
+    
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr ;
+    grid-area: 
+    "cardContainer" 
+    "imagenes"
+    "video"
+    ;
+}
+.cardContainer{
+    grid-area: cardContainer;
+}
+
+.imagenes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 100px;
+    grid-area: imagenes;
+}
+.enfasis{
+    text-decoration: none;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    color: rgb(6, 6, 6);
+    font-size:larger;
+    font-family: 'Nunito', sans-serif;
+    margin-left: 20px;
+}
+.subrayado{
+    display: flex;
+    justify-content: center;
+    text-decoration-line: underline;
+    margin-top: 20px;
+    font-family: 'Nunito', sans-serif;
+    color: black;
+    font-size: xx-large;
+}
+
+.cargando{
+    height: 50vh;
+    width: 30vw;  
+    margin-top: 70px;
+    margin-left: 30px;
+}
+.foto2{
+    height: 50vh;
+    width: 30vw;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+.foto3{ 
+    height: 50vh;
+    width: 30vw;
+    margin-top: 70px;
+    margin-bottom: 0px;
+    margin-left: 30px;
+}
+.video{
+    display:flex;
+    justify-content: center;
+    grid-area: video;
+    align-items: center;
+    margin-bottom: 40px;
+    flex-direction: column;
+    
+}
+
+body header ul li a:hover {
+    color: white;
+}
+ul li {
+    list-style-type: none;
+}
+.navbar{
+    font-size: x-large;
+    height: 2vh;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr ;
+    grid-area: 
+    "logo"
+    "navbar"
+    "login";
+}
+
+
+.navbar  li{
+    margin: 0px 0px;
+    
+}
+main section  div p{
+    color:rgb(11, 11, 11);
+    padding: 10px;
+    margin-top: 20px;
+}
+
+body{
+    background-color: rgb(238, 243, 244); 
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    min-height: 100vh;
+    
+}
+
+.login{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-left: 100px;
+    padding: 5px;
+}
+
+.contenedor-footer{
+    display:flex;
+    background-color: orange;
+    align-items: center;
+    }
+    
+    .footer-calle{
+    padding: 0 1em;
+    }
+    
+    .titulo-empresa{
+    
+    font-size: 1em;
+    color: rgb(65, 62, 62);
+    margin-bottom: 1em;
+    letter-spacing: 0.1em;
+    }
+    
+    
+    .footer-col{
+    padding: 0 1em;
+    }
+    
+    .footer-col .links-redes li{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    }
+    
+    .footer-col .links-redes a{
+    font-size: 1em;
+    margin: 0.5em;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    
+    }
+
+.box{
+    border-radius: 6px;
+    width: 80px;
+    height: 40px;
+    margin:60px auto;
+    
+}
+
+.box1{
+    background-color: rgb(11, 11, 11);
+}
+
+.box2{
+    background-color: rgb(14, 14, 14);
+    transition: all 2s;
+}
+.box:hover{
+    transform: scale(4);
+    
+}
+
+.circle1 , .circle2, .circle3 , .circle4 ,.circle5{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    margin: 25px;
+}
+.circle1{
+    background-color: chocolate;
+    transition:  all 2s ease;
+}
+.circle2{
+    background-color: cyan;
+transition: all 2s ease-in-out;
+}
+.circle3{
+    background-color: darkorchid;
+    transition: all 2s ease-out;
+}
+.circle4{
+    background-color: chartreuse;
+    transition: all 2s ease-in;
+}
+.circle5{
+    background-color: gold;
+    transition: all 2s step-end;
+}
+.container-circle:hover .circle1,
+.container-circle:hover .circle2,
+.container-circle:hover .circle3,
+.container-circle:hover .circle4,
+.container-circle:hover .circle5{
+    transform: translateX(200px);
+}
+
+.titulo{
+font-size: 3em;
+letter-spacing: 0.1em;
+text-align: center;
+padding: 20px;
+}
+.lucas {
+display: grid;
+grid-template-columns: repeat(3, 2fr);
+justify-items: center;
+text-align: center;
+padding-bottom: 1em;
+margin: 0 2.5em 0;
+}
+.lucas hover{
+    animation: myAnim 2s ease 0s 1 normal forwards;
+}
+.itemItem1{
+padding: 1rem;
+margin: 2px;
+background-color: black;
+}
+.itemItem2{
+padding: 1rem;
+margin: 2px;
+background-color: black;
+}
+.itemItem3{
+padding: 1rem;
+margin: 2px;
+background-color: black;
+}
+.itemItem4{
+padding: 1rem;
+margin: 2px;
+background-color: black;
+}
+.itemItem5{
+padding: 1rem;
+margin: 2px;
+background-color: black;
+}
+.itemItem6{
+padding: 1rem;
+margin: 2px;
+background-color: black;
+}
+img{
+    width: 350px;
+    height: 250px;
+    object-fit: cover;
+        
+        }
+
+
+
+@media (max-width:1024px){
+.lucas{
+grid-template-columns:1fr 1fr;
+}
+.titulo{
+font-size: 2em;
+}
+
+}
+
+@media (max-width:768px){
+
+
+.lucas {
+grid-template-columns:1fr;
+
+}
+.titulo {
+font-size: 1em;
+}
+}
+
+
+

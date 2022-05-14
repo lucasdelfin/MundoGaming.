@@ -1,0 +1,81 @@
+00:22:32	Lucas Delfino:	buenas recién llego !!
+00:23:09	Lucas Delfino:	buenísimo , venia a los pedos del laburo jaja
+00:29:12	Lucas Delfino:	dario ,consulta si yo anteriormente declare todo con display flex , se puede intercambiar por grid ?
+00:30:12	leonel ledesma:	una consulta el padding y el margin no las un valor de 0 antes de empezar el estilo?
+00:30:35	Lucas Delfino:	buenisimo, en caso que agrege cosas voy a probar con grid , porque venia todo con flex
+00:31:26	Pablo Altera:	Darío vh o vw es un porcentaje de la pantalla del navegador no? con 100vh estas diciendo que ocupe el 100% del largo?
+00:32:15	Pablo Altera:	joya, también cambia si achico la dimensión de la pantalla entonces
+00:32:37	Roberto Rossa:	La combinación de flex con grid. El grid lo puedo aplicar a partir de un breakpoint especifico o tengo que seguir con flex?
+00:32:47	Pablo Altera:	perfecto! entendido gracias!!
+00:33:31	Roberto Rossa:	Ah OK. Gracias.
+00:34:17	Roberto Rossa:	Si
+00:34:23	Gonzalo Ponce:	si
+00:34:24	Ezequiel Ferreira:	sip
+00:35:44	Valentino Paterno:	Dario, había visto que una etiqueta "aside" es una etiqueta semántica que casi siempre se usa, por que en lo que va de las clasese no la usamos mucho? Para que sirve?
+00:36:37	Ezequiel Ferreira:	en YouTube no hay?
+00:36:45	Valentino Paterno:	Claaro
+00:36:48	Ezequiel Ferreira:	tipo en los videos mismos
+00:36:51	Valentino Paterno:	Gracias!
+00:39:53	Valentino Paterno:	publicidad de terceros o nuestra?
+00:40:19	Lucas Delfino:	lo codias vos pero es de otro jaja
+00:40:30	Valentino Paterno:	ta
+00:40:34	Valentino Paterno:	perfecto
+00:43:38	Fernando Largher:	para implementarlo en nuestro index entonces es necesario crear un div que englobe todas las secciones principales, ya sea el header, footer, las diferentes section?
+00:44:27	Fernando Largher:	ahh
+00:44:44	Fernando Largher:	pero por ejemplo vos aca no lo hiciste
+00:44:45	Fernando Largher:	?
+00:46:02	Fernando Largher:	claro pero vos ahí lo tenes
+00:46:02	Lucas Delfino:	yo estoy medio enquilombado porque todo el proyecto hasta ahora llegue a flex  y ahora siento que voy a hacer alto quilombo de cosas
+00:46:11	Fernando Largher:	porque el body ya esta declarado o no
+00:46:11	Fernando Largher:	?
+00:46:12	Jessie Mercado:	igual lucas u.u
+00:46:26	Nicolas Inchausti:	Pasa que la idea que me quedó a mi con grid es que es solo para minimas partes de nuestra pagina
+00:46:31	Nicolas Inchausti:	Después todo se puede acomodar con flex
+00:46:54	Lucas Delfino:	bueno dario , si estaría bueno porque no se como meter grid .. di muchas clases a cosas para flex
+00:47:02	Jessie Mercado:	claro pero en mi caso deberia eliminar casi todo lo que ya tengo u.
+00:48:13	Mariana Santos:	por ejemplo, si tengo una imagen de fondo, no es necesario usar grid n??
+00:48:15	Mariana Santos:	no?
+00:48:50	Mariana Santos:	para mi index
+00:49:18	Mariana Santos:	xq yo en mi índex, use una imagen sola en mi índex y solo un h1 y h2
+00:51:48	Roberto Rossa:	sisi
+00:51:53	Florencia Togliefoso:	si
+00:52:25	Gonzalo Ponce:	todo bien hasta aca
+00:52:52	Lucas Delfino:	yo en mi index tengo class para flex, si quiero ajustarlo a tantos pixeles como haría ? perdón que pregunte y atrase al resto
+00:52:56	Lucas Delfino:	pero estoy medio perdido con eso jaja
+00:53:19	Lucas Delfino:	sisi
+00:54:21	Lucas Delfino:	bien a eso iba genial
+00:54:52	Lucas Delfino:	buenisimoooo
+00:54:55	Lucas Delfino:	gracias dario
+00:59:04	Jessie Mercado:	Que vendria a ser el gap
+00:59:16	Jessie Mercado:	aaaah bien bien
+01:03:45	Mariana Santos:	si si
+01:03:45	Daniel Alejandro Lues:	si
+01:03:46	Lucas Delfino:	si dari
+01:03:51	Jessie Mercado:	y si le queres pober ua descripcion adentro?
+01:03:54	Francesco:	Sí, se suele trabajar así mejor?
+01:03:55	Jessie Mercado:	poner*
+01:04:23	Jessie Mercado:	Geniaaaal!!
+01:04:49	Lucas Delfino:	warcraft a fulll
+01:05:04	Lucas Delfino:	jajajaja
+01:05:15	Florencia Togliefoso:	muy bueno
+01:07:22	Daniel Alejandro Lues:	sisis
+01:07:25	Nicolas Inchausti:	Sisi
+01:08:39	Roberto Rossa:	si
+01:08:39	Florencia Togliefoso:	sii
+01:08:40	Nicolas Inchausti:	Espectacular
+01:08:41	Lucas Delfino:	buenaso esta
+01:08:42	Mariana Santos:	seee
+01:08:43	Jessie Mercado:	uuff !
+01:08:45	Gonzalo Ponce:	joya
+01:08:49	Mariana Santos:	muy copado ja
+01:09:13	Nicolas Inchausti:	Darío sobre grids ya no hay nada mas para tener en cuenta?
+01:22:29	Francesco:	Aling-self qué es?
+01:27:28	Francesco:	Genial!
+01:30:48	Diego Dominguez:	Es necesario usar grids por separado? es decir, que el header, main y el footer tengan su maquetado con grid?
+01:31:42	Jessie Mercado:	como dirian en rick and morty Una simulacion dentro de una simulacion
+01:31:45	Diego Dominguez:	Claro
+01:31:47	Diego Dominguez:	gracias
+01:33:02	Jessie Mercado:	NAAAAA <3
+01:35:25	Mariana Santos:	en las galerias de imagenes conviene mas hacer los grid me parece no?
+01:35:47	Mariana Santos:	claro!
+01:36:29	Daniel Alejandro Lues:	muy  didáctico y claro
